@@ -1,4 +1,3 @@
-markdown
 # Customer Segments Analysis
 
 This project focuses on identifying customer segments based on purchasing behavior data from a wholesale distributor. The analysis aims to uncover meaningful insights into different types of clients, such as supermarkets, cafes, and restaurants, using clustering techniques. The results help in understanding patterns within the data that can inform business strategies for targeted marketing and inventory management.
